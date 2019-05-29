@@ -8,6 +8,8 @@
 
 .infophoto{
   height: 250px;
+  background-color: #dfe6e9;
+   border-radius: 20px;
 }
 
 .content{
@@ -20,7 +22,6 @@
 }
 
 .section{
-  margin-bottom: 200px;
   text-align: justify;
 }
 
@@ -79,3 +80,8 @@ h2{
 #forma-gauche p{
   margin-bottom: 37px;
 }
+
+.section:hover{
+  color: blue;
+}
+
