@@ -15,6 +15,7 @@ Vous trouverez mon CV en cliquant là => [Mon Cv](https://chrisbetbeder.github.i
 
 * Html
 * CSS
+* Markdown
 
 
 
